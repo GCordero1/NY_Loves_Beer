@@ -39,15 +39,6 @@
     color: black;
 }
 
-.go-button
-{
-    height: 30px;
-    width: 50px;
-    color: #918e8e;
-    border-radius: 3px;
-    background-color: #91edd1;
-}
-
 .light-blue
 {
     color: #91edd1;
@@ -104,7 +95,7 @@
 	      rgba(0, 0, 0, 0.5),
 	      rgba(0, 0, 0, 0.5)
 	    ),
-	    url('jeremy-bishop-226288.jpg');
+	    url('Stride-NYC-Skyline.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
