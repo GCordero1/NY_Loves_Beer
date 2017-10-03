@@ -88,7 +88,7 @@ function initMap() {
             map: map,
             title: markers[i][0],
             icon: {
-    			url: 'http://www.free-icons-download.net/images/beer-icons-46158.png',
+    			url: 'beer.png',
 				scaledSize: new google.maps.Size(30, 30)
 			}
         });
